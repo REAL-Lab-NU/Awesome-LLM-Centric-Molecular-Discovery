@@ -5,21 +5,12 @@ A collection of AWESOME things about Graph Generation with LLMs.
 
 ## ❖ Contents 
 - [Molecular Graph](#Molecular-Graph)
-    - [LLM-centric Approaches](#Model-centric-Approaches)
-    - [Graph-centric Approaches](#Graph-centric-Approaches)
 - [Knowledge Graph](#Knowledge-Graph)
-    - [LLM-centric Approaches](#Model-centric-Approaches-1)
-    - [Graph-centric Approaches](#Graph-centric-Approaches-1)
 - [Program Graph](#Knowledge-Graph)
-    - [LLM-centric Approaches](#Model-centric-Approaches-2)
-    - [Graph-centric Approaches](#Graph-centric-Approaches-2)
 - [Social Networks](#Knowledge-Graph)
-    - [LLM-centric Approaches](#Model-centric-Approaches-3)
-    - [Graph-centric Approaches](#Graph-centric-Approaches-3)
  
 ## ❖ Molecule Graph
 
-### LLM-centric Approaches
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
 | **G2T-LLM** | arXiv 2024.10 | Text-to-Graph Generation  | [G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models](https://arxiv.org/pdf/2410.02198) | [N/A] |
@@ -46,7 +37,9 @@ A collection of AWESOME things about Graph Generation with LLMs.
 
 
 
-### GNN-centric Approaches
-|Name|Category|Paper|Code|
-| :------------ |:---------------:| :---------------| :---------------| 
-| **DIR** | Invariant Representation Learning    | [[ICLR 2022] Discovering invariant rationales for graph neural networks](https://arxiv.org/pdf/2410.02198) | [Code](https://github.com/Wuyxin/DIR-GNN) |
+## ❖ Knowledge Graph
+
+|Name|Year|Category|Paper|Code|
+| :------------ |:---------------: |:---------------:| :---------------| :---------------| 
+| **KG-ChatGPT** | AI Tomorrow 2023 | ChatGPT  | [LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT](https://arxiv.org/pdf/2307.06917) | [Code](https://github.com/AKSW/AI-Tomorrow-2023-KG-ChatGPT-Experiments) |
+| **KoPA** | ACM MM | Multimodal  | [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671) | [Code](https://github.com/zjukg/KoPA) |
