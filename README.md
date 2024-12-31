@@ -43,8 +43,10 @@ A collection of AWESOME things about Graph Generation with LLMs.
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
 | **KG-ChatGPT** | AI Tomorrow 2023 | ChatGPT  | [LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT](https://arxiv.org/pdf/2307.06917) | [Code](https://github.com/AKSW/AI-Tomorrow-2023-KG-ChatGPT-Experiments) |
+| **KICGPT** | EMNLP Finding 2023 | ChatGPT  | [Exploring Large Language Models for Knowledge Graph Completion](https://arxiv.org/pdf/2402.02389) | [Code](https://github.com/WEIYanbin1999/KICGPT) |
 | **KoPA** | ACM MM | Multimodal  | [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671) | [Code](https://github.com/zjukg/KoPA) |
 | **KG-LLM** | arXiv 2024.02 | Pretraining  | [Exploring Large Language Models for Knowledge Graph Completion](https://arxiv.org/pdf/2308.13916) | [N/A] |
+
 
 
 
