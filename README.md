@@ -44,3 +44,13 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
 | **KG-ChatGPT** | AI Tomorrow 2023 | ChatGPT  | [LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT](https://arxiv.org/pdf/2307.06917) | [Code](https://github.com/AKSW/AI-Tomorrow-2023-KG-ChatGPT-Experiments) |
 | **KoPA** | ACM MM | Multimodal  | [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671) | [Code](https://github.com/zjukg/KoPA) |
+
+
+
+
+
+## ❖ Social Networks
+
+|Name|Year|Category|Paper|Code|
+| :------------ |:---------------: |:---------------:| :---------------| :---------------| 
+| **GAG** | arXiv 2024.12 | ChatGPT  | [LLM-Based Multi-Agent Systems are Scalable Graph Generative Models](https://arxiv.org/pdf/2410.09824) | [Code](https://anonymous.4open.science/r/GraphAgent-2206/READMEcourse.md) |
