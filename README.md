@@ -6,7 +6,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 ## ❖ Contents 
 - [Molecular Graph](#Molecular-Graph)
 - [Knowledge Graph](#Knowledge-Graph)
-- [Program Graph](#Knowledge-Graph)
+- [Code Graph](#Knowledge-Graph)
 - [Social Networks](#Knowledge-Graph)
  
 ## ❖ Molecule Graph
@@ -47,6 +47,13 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **KoPA** | ACM MM | Multimodal  | [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671) | [Code](https://github.com/zjukg/KoPA) |
 | **KG-LLM** | arXiv 2024.02 | Pretraining  | [Exploring Large Language Models for Knowledge Graph Completion](https://arxiv.org/pdf/2308.13916) | [N/A] |
 
+
+
+## ❖ Code Graph
+
+|Name|Year|Category|Paper|Code|
+| :------------ |:---------------: |:---------------:| :---------------| :---------------| 
+| **CODEXGRAPH** | arXiv 2024.08 | ChatGPT  | [CODEXGRAPH: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/pdf/2408.03910?) | [Code](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent) |
 
 
 
