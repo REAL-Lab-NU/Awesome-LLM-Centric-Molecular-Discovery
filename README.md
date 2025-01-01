@@ -4,10 +4,10 @@ A collection of AWESOME things about Graph Generation with LLMs.
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## ❖ Contents 
-- [Molecular Graph](#Molecular-Graph)
-- [Knowledge Graph](#Knowledge-Graph)
-- [Code Graph](#Knowledge-Graph)
-- [Social Networks](#Knowledge-Graph)
+- [Molecular Graph](##Molecular-Graph)
+- [Knowledge Graph](##Knowledge-Graph)
+- [Code Graph](##Code-Graph)
+- [Social Networks](##Social-Networks)
  
 ## ❖ Molecule Graph
 
@@ -45,6 +45,8 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **KG-ChatGPT** | AI Tomorrow 2023 | ChatGPT  | [LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT](https://arxiv.org/pdf/2307.06917) | [Code](https://github.com/AKSW/AI-Tomorrow-2023-KG-ChatGPT-Experiments) |
 | **PiVE** | ACL Finding 2024 | ChatGPT  | [PiVe: Prompting with Iterative Veriﬁcation Improving Graph-based Generative Capability of LLMs](https://aclanthology.org/2024.findings-acl.400.pdf) | [Code](https://github.com/Jiuzhouh/PiVe) |
 | **SAC-KG** | ACL 2024 | ChatGPT  | [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://aclanthology.org/2024.acl-long.238.pdf) | [N/A]|
+| **AutoKG** | arXiv 2024.12 | ChatGPT  | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/pdf/2305.13168) | [Code](https://github.com/zjunlp/AutoKG)|
+
  
 
 
