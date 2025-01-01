@@ -9,7 +9,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 - [Code Graph](#code-graph)
 - [Social Networks](#social-networks)
  
-## ❖ Molecular Graph
+## Molecular Graph
 
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
@@ -38,7 +38,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 
 
 
-## ❖ Knowledge Graph
+## Knowledge Graph
 
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
@@ -52,7 +52,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 
 
 
-## ❖ Code Graph
+## Code Graph
 
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
