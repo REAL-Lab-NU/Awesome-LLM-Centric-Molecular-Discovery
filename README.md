@@ -4,10 +4,10 @@ A collection of AWESOME things about Graph Generation with LLMs.
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## ❖ Contents 
-- [Molecular Graph](##Molecular-Graph)
-- [Knowledge Graph](##Knowledge-Graph)
-- [Code Graph](##Code-Graph)
-- [Social Networks](##Social-Networks)
+- [Molecular Graph](#molecular-graph)
+- [Knowledge Graph](#knowledge-graph)
+- [Code Graph](#code-graph)
+- [Social Networks](#social-networks)
  
 ## ❖ Molecule Graph
 
