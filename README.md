@@ -46,6 +46,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **PiVE** | ACL Finding 2024 | ChatGPT  | [PiVe: Prompting with Iterative Veriﬁcation Improving Graph-based Generative Capability of LLMs](https://aclanthology.org/2024.findings-acl.400.pdf) | [Code](https://github.com/Jiuzhouh/PiVe) |
 | **SAC-KG** | ACL 2024 | ChatGPT  | [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://aclanthology.org/2024.acl-long.238.pdf) | [N/A]|
 | **AutoKG** | arXiv 2024.12 | ChatGPT  | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/pdf/2305.13168) | [Code](https://github.com/zjunlp/AutoKG)|
+| **KGLLM** | arXiv 2024.12 | ChatGPT  | [Enhancing Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2305.04676) | [N/A]|
 
  
 
