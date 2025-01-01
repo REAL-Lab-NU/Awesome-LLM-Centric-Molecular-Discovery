@@ -62,7 +62,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 
 
 
-## ❖ Social Networks
+## Social Networks
 
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
