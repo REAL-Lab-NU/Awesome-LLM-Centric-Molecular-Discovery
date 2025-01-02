@@ -49,8 +49,12 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **PiVE** | ACL Finding 2024 | ChatGPT  | [PiVe: Prompting with Iterative Veriﬁcation Improving Graph-based Generative Capability of LLMs](https://aclanthology.org/2024.findings-acl.400.pdf) | [Code](https://github.com/Jiuzhouh/PiVe) |
 | **SAC-KG** | ACL 2024 | ChatGPT  | [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://aclanthology.org/2024.acl-long.238.pdf) | [N/A]|
 | **AutoKG** | arXiv 2024.12 | ChatGPT  | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/pdf/2305.13168) | [Code](https://github.com/zjunlp/AutoKG)|
+| **ILP** | arXiv 2023.07 | ChatGPT  | [Iterative zero-shot llm prompting for knowledge graph construction](https://arxiv.org/pdf/2307.01128) | [N/A]|
 | **KGLLM** | arXiv 2023.05 | ChatGPT  | [Enhancing Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2305.04676) | [N/A]|
 | **RML** | IWKGC |ChatGPT  | [Towards self-configuring Knowledge Graph Construction Pipelines using LLMs - A Case Study with RML](https://kg-construct.github.io/workshop/2024/resources/paper8.pdf) | [N/A]|
+| **ESG** | EPJ Data Science |ChatGPT  | [Glitter or gold? Deriving structured insights from sustainability reports via large language models](https://link.springer.com/content/pdf/10.1140/epjds/s13688-024-00481-2.pdf) | [N/A]|
+| **G-T2KG** | KES 2024 |ChatGPT  | [Enhancing Domain-Independent Knowledge Graph Construction through OpenIE Cleaning and LLMs Validation](https://www.sciencedirect.com/science/article/pii/S1877050924024761?ref=pdf_download&fr=RR-2&rr=8fbe110749b82317) | [Code](https://github.com/OthmaneKabal/G-T2KG)|
+| **Text2KGBench** | ISWC 2023 |ChatGPT  | [Text2KG: A Benchmark for Ontology Driven Knowledge Graph Generation from Text](https://arxiv.org/pdf/2308.02357) | [Code](https://github.com/cenguix/Text2KGBench)|
 | **AESG** | UMAP Adjunct 2024 | Schema Generation  | [Towards Zero-shot Knowledge Graph building: Automated Schema Inference](https://dl.acm.org/doi/pdf/10.1145/3631700.3665234) | [N/A]|
 | **OC** | arXiv 2023.09 | Ontology Construction  | [Towards Ontology Construction with Language Models](https://arxiv.org/pdf/2309.09898) | [N/A]|
 | **OntoChat** | arXiv 2024.04 | Ontology Construction  | [OntoChat: a Framework for Conversational Ontology Engineering using Language Models](https://arxiv.org/pdf/2403.05921) | [Code](https://github.com/King-s-Knowledge-Graph-Lab/OntoChat)|
