@@ -47,7 +47,15 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **SAC-KG** | ACL 2024 | ChatGPT  | [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://aclanthology.org/2024.acl-long.238.pdf) | [N/A]|
 | **AutoKG** | arXiv 2024.12 | ChatGPT  | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/pdf/2305.13168) | [Code](https://github.com/zjunlp/AutoKG)|
 | **KGLLM** | arXiv 2023.05 | ChatGPT  | [Enhancing Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2305.04676) | [N/A]|
+| **RML** | IWKGC |ChatGPT  | [Towards self-configuring Knowledge Graph Construction Pipelines using LLMs - A Case Study with RML](https://kg-construct.github.io/workshop/2024/resources/paper8.pdf) | [N/A]|
 | **AESG** | UMAP Adjunct 2024 | Schema Generation  | [Towards Zero-shot Knowledge Graph building: Automated Schema Inference](https://dl.acm.org/doi/pdf/10.1145/3631700.3665234) | [N/A]|
+| **OC** | arXiv 2023.09 | Ontology Construction  | [Towards Ontology Construction with Language Models](https://arxiv.org/pdf/2309.09898) | [N/A]|
+| **OntoChat** | arXiv 2024.04 | Ontology Construction  | [OntoChat: a Framework for Conversational Ontology Engineering using Language Models](https://arxiv.org/pdf/2403.05921) | [Code](https://github.com/King-s-Knowledge-Graph-Lab/OntoChat)|
+| **LLMs4OL** | ISWC 2023 | Ontology Construction  | [LLMs4OL: Large Language Models for Ontology Learning](https://arxiv.org/pdf/2307.16648) | [N/A]|
+| **AutoKGLLM** | arXiv 2024.03 | ChatGPT  | [From human experts to machines: An LLM-supported approach to ontology and knowledge graph construction](https://arxiv.org/pdf/2403.08345) | [Code](https://github.com/fusion-jena/automatic-KG-creation-with-LLM)|
+| **LLMGCO** | IEEE ETFA | Ontology Construction  |[On the Use of Large Language Models to Generate Capability Ontologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10710775) | [N/A]|
+
+
 
  
 
