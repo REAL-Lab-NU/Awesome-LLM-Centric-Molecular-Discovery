@@ -54,6 +54,10 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **LLMs4OL** | ISWC 2023 | Ontology Construction  | [LLMs4OL: Large Language Models for Ontology Learning](https://arxiv.org/pdf/2307.16648) | [N/A]|
 | **AutoKGLLM** | arXiv 2024.03 | ChatGPT  | [From human experts to machines: An LLM-supported approach to ontology and knowledge graph construction](https://arxiv.org/pdf/2403.08345) | [Code](https://github.com/fusion-jena/automatic-KG-creation-with-LLM)|
 | **LLMGCO** | IEEE ETFA | Ontology Construction  |[On the Use of Large Language Models to Generate Capability Ontologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10710775) | [N/A]|
+| **Agent-OM** | arXiv 2024.12 | Ontology Matching  |[Agent-OM: Leveraging LLM Agents for Ontology Matching](https://arxiv.org/pdf/2312.00326) | [N/A]|
+| **SPIRES** | arXiv 2024.12 | NER  |[Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning](https://arxiv.org/abs/2304.02711) | [Code](https://github.com/monarch-initiative/ontogpt)|
+| **KnowPrompt** | WWW 2022 | Relation Extraction  |[KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction](https://arxiv.org/pdf/2104.07650) | [Code](https://github.com/zjunlp/KnowPrompt)|
+
 
 
 
