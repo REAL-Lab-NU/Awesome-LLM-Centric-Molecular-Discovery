@@ -55,6 +55,12 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **ESG** | EPJ Data Science |ChatGPT  | [Glitter or gold? Deriving structured insights from sustainability reports via large language models](https://link.springer.com/content/pdf/10.1140/epjds/s13688-024-00481-2.pdf) | [N/A]|
 | **G-T2KG** | KES 2024 |ChatGPT  | [Enhancing Domain-Independent Knowledge Graph Construction through OpenIE Cleaning and LLMs Validation](https://www.sciencedirect.com/science/article/pii/S1877050924024761?ref=pdf_download&fr=RR-2&rr=8fbe110749b82317) | [Code](https://github.com/OthmaneKabal/G-T2KG)|
 | **Text2KGBench** | ISWC 2023 |ChatGPT  | [Text2KG: A Benchmark for Ontology Driven Knowledge Graph Generation from Text](https://arxiv.org/pdf/2308.02357) | [Code](https://github.com/cenguix/Text2KGBench)|
+| **iText2KG** | WISE 2024 |ChatGPT  | [iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models](https://arxiv.org/pdf/2409.03284?) | [Code](https://github.com/AuvaLab/itext2kg)|
+| **KGValidator** | TEXT2KG |ChatGPT  | [KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction](https://arxiv.org/pdf/2404.15923) | [N/A]|
+| **MST** | KaLLM 2024 |ChatGPT  | [Ontology-guided Knowledge Graph Construction from Maintenance Short Texts](https://aclanthology.org/2024.kallm-1.8.pdf) | [N/A]|
+| **KGEC** | VLDB Workshop 2024 |ChatGPT  | [Knowledge Graph Efficient Construction: Embedding Chain-of-Thought into LLMs](https://vldb.org/workshops/2024/proceedings/LLM+KG/LLM+KG-4.pdf) | [N/A]|
+| **OneEdit** | VLDB Workshop 2024 |ChatGPT  | [OneEdit: A Neural-Symbolic Collaboratively Knowledge Editing System](https://arxiv.org/pdf/2409.07497?) | [N/A]|
+| **GraphJudger** | arXiv 2024.11 |ChatGPT  | [Can LLMs be Good Graph Judger for Knowledge Graph Construction?](https://arxiv.org/pdf/2411.17388?) | [Code](https://github.com/hhy-huang/GraphJudger)|
 | **AESG** | UMAP Adjunct 2024 | Schema Generation  | [Towards Zero-shot Knowledge Graph building: Automated Schema Inference](https://dl.acm.org/doi/pdf/10.1145/3631700.3665234) | [N/A]|
 | **OC** | arXiv 2023.09 | Ontology Construction  | [Towards Ontology Construction with Language Models](https://arxiv.org/pdf/2309.09898) | [N/A]|
 | **OntoChat** | arXiv 2024.04 | Ontology Construction  | [OntoChat: a Framework for Conversational Ontology Engineering using Language Models](https://arxiv.org/pdf/2403.05921) | [Code](https://github.com/King-s-Knowledge-Graph-Lab/OntoChat)|
