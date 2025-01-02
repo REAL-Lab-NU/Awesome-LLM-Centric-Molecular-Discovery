@@ -42,6 +42,9 @@ A collection of AWESOME things about Graph Generation with LLMs.
 
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
+| **Survey** | TKDE | Survey  | [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/pdf/2306.08302) | [N/A]) |
+| **Survey** | ACM Computing Surveys | Survey  | [A comprehensive survey on automatic knowledge graph construction](https://dl.acm.org/doi/pdf/10.1145/3618295?casa_token=cv0e9cCTN3kAAAAA:-CS5i0INZRrnn1rqPlskvaC76t00QEiciUzB2nVsCNjTLCGAblLe4WolIfvJD04fhcyBCvyXV3aDCng) | [N/A]) |
+| **Survey** | Information | Survey  | [Construction of Knowledge Graphs: Current State and Challenges](https://www.mdpi.com/2078-2489/15/8/509) | [N/A]) |
 | **KG-ChatGPT** | AI Tomorrow 2023 | ChatGPT  | [LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT](https://arxiv.org/pdf/2307.06917) | [Code](https://github.com/AKSW/AI-Tomorrow-2023-KG-ChatGPT-Experiments) |
 | **PiVE** | ACL Finding 2024 | ChatGPT  | [PiVe: Prompting with Iterative Veriﬁcation Improving Graph-based Generative Capability of LLMs](https://aclanthology.org/2024.findings-acl.400.pdf) | [Code](https://github.com/Jiuzhouh/PiVe) |
 | **SAC-KG** | ACL 2024 | ChatGPT  | [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://aclanthology.org/2024.acl-long.238.pdf) | [N/A]|
@@ -55,7 +58,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **AutoKGLLM** | arXiv 2024.03 | ChatGPT  | [From human experts to machines: An LLM-supported approach to ontology and knowledge graph construction](https://arxiv.org/pdf/2403.08345) | [Code](https://github.com/fusion-jena/automatic-KG-creation-with-LLM)|
 | **LLMGCO** | IEEE ETFA | Ontology Construction  |[On the Use of Large Language Models to Generate Capability Ontologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10710775) | [N/A]|
 | **Agent-OM** | arXiv 2024.12 | Ontology Matching  |[Agent-OM: Leveraging LLM Agents for Ontology Matching](https://arxiv.org/pdf/2312.00326) | [N/A]|
-| **SPIRES** | arXiv 2024.12 | NER  |[Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning](https://arxiv.org/abs/2304.02711) | [Code](https://github.com/monarch-initiative/ontogpt)|
+| **SPIRES** | Bioinformatics | NER  |[Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning](https://arxiv.org/abs/2304.02711) | [Code](https://github.com/monarch-initiative/ontogpt)|
 | **KnowPrompt** | WWW 2022 | Relation Extraction  |[KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction](https://arxiv.org/pdf/2104.07650) | [Code](https://github.com/zjunlp/KnowPrompt)|
 
 
