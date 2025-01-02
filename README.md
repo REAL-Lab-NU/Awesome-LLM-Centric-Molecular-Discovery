@@ -47,6 +47,7 @@ A collection of AWESOME things about Graph Generation with LLMs.
 | **SAC-KG** | ACL 2024 | ChatGPT  | [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://aclanthology.org/2024.acl-long.238.pdf) | [N/A]|
 | **AutoKG** | arXiv 2024.12 | ChatGPT  | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/pdf/2305.13168) | [Code](https://github.com/zjunlp/AutoKG)|
 | **KGLLM** | arXiv 2023.05 | ChatGPT  | [Enhancing Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2305.04676) | [N/A]|
+| **AESG** | UMAP Adjunct 2024 | Schema Generation  | [Towards Zero-shot Knowledge Graph building: Automated Schema Inference](https://dl.acm.org/doi/pdf/10.1145/3631700.3665234) | [N/A]|
 
  
 
