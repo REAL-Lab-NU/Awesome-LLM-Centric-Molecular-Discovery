@@ -25,8 +25,8 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **NatureLM**   | arXiv 2025.02 | Surpevised Fine-Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
 | **SynLlama**   | arXiv 2025.03 | Surpevised Fine-Tuning | [SynLlama: Generating Synthesizable Molecules and Analogs with LLMs](https://arxiv.org/pdf/2503.12602) |[N/A]|
 | **TOMG-Bench** | arXiv 2024.12 | Surpevised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
-| **UniMoT** | ICLR 2025* | Surpevised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/pdf/2408.00863) | [Code](https://uni-mot.github.io/) |
-| **Div-SFT** | ICLR 2025* | Preference Tuning | [Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity](https://arxiv.org/pdf/2410.03138) | [N/A] |
+| **UniMoT** | arXiv 2024.08 | Surpevised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/pdf/2408.00863) | [Code](https://uni-mot.github.io/) |
+| **Div-SFT** | arXiv 2024.10 | Preference Tuning | [Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity](https://arxiv.org/pdf/2410.03138) | [N/A] |
 | **Mol-MoE** | arXiv 2025.02 | Preference Tuning | [Mol-MoE: Training Preference-Guided Routers for Molecule Generation](https://arxiv.org/pdf/2502.05633) | [Code](https://github.com/ddidacus/mol-moe) |
 | **SmileyLLama**| NeurIPS2024 Workshop | Preference Tuning | [SmileyLlama: Modifying LLMs for Directed Chemical Space Exploration](https://arxiv.org/pdf/2409.02231) |[N/A] |
 | **ALMol** | ACL2024 Workshop | Preference Tuning | [ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](https://arxiv.org/abs/2405.08619) |[N/A]|
