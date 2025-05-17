@@ -31,7 +31,7 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **SmileyLLama**| NeurIPS2024 Workshop | Preference Tuning | [SmileyLlama: Modifying LLMs for Directed Chemical Space Exploration](https://arxiv.org/pdf/2409.02231) |[N/A] |
 | **ALMol** | ACL2024 Workshop | Preference Tuning | [ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](https://arxiv.org/abs/2405.08619) |[N/A]|
 | **Less for More** | arXiv 2024.05 | Preference Tuning | [Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation](https://arxiv.org/pdf/2405.13984) | [N/A] |
-| **MOLLM** | arXiv 2025.02 | Preference Tuning | [Mol-llm:Generalist molecular llm with improved graph utilization](https://arxiv.org/pdf/2502.02810)|[N/A]|
+| **Mol-LLM** | arXiv 2025.02 | Preference Tuning | [Mol-llm:Generalist molecular llm with improved graph utilization](https://arxiv.org/pdf/2502.02810)|[N/A]|
 
 
 
