@@ -21,18 +21,18 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **ChemLLM** | arXiv 2024.04 | Surpevised Fine-Tuning | [ChemLLM: A Chemical Large Language Model](https://arxiv.org/pdf/2402.06852) | [N/A] |
 | **MolReFlect** | arXiv 2024.11 | Surpevised Fine-Tuning | [MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](https://arxiv.org/pdf/2411.14721) | [N/A] |
 | **ChatMol** | arXiv 2025.02 | Surpevised Fine-Tuning | [ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model](https://arxiv.org/pdf/2502.19794) | [N/A] |
-| **PEIT-LLM**   | arXiv 2024.12 | Surpevised Fine-Tuning | [Property Enhanced Instruction Tuning for Multi-task Molecule Generation with LLMs](https://arxiv.org/abs/2412.18084) | [Code](https://github.com/chenlong164/PEIT) |
-| **NatureLM**   | arXiv 2025.02 | Surpevised Fine-Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/abs/2502.07527) | [Code](https://naturelm.github.io/) |
-| **SynLlama**   | arXiv 2025.03 | Surpevised Fine-Tuning | [SynLlama: Generating Synthesizable Molecules and Analogs with LLMs](https://arxiv.org/abs/2503.12602) | [Code](https://github.com/THGLab/SynLlama) |
-| **TOMG-Bench** | arXiv 2024.12 | Surpevised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/abs/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
-| **UniMoT**     | arXiv 2024.08 | Surpevised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/abs/2408.00863) | [Code](https://uni-mot.github.io/) |
-| **Mol-MoE**    | arXiv 2025.02 | Preference Tuning | [Mol-MoE: Training Preference-Guided Routers for Molecule Generation](https://arxiv.org/abs/2502.05633) | [Code](https://github.com/ddidacus/mol-moe) |
-| **SmileyLlama**| arXiv 2024.09 | Preference Tuning | [SmileyLlama: Modifying LLMs for Directed Chemical Space Exploration](https://arxiv.org/abs/2409.02231) |[N/A] |
+| **PEIT-LLM**   | arXiv 2024.12 | Surpevised Fine-Tuning | [Property Enhanced Instruction Tuning for Multi-task Molecule Generation with LLMs](https://arxiv.org/pdf/2412.18084) | [Code](https://github.com/chenlong164/PEIT) |
+| **NatureLM**   | arXiv 2025.02 | Surpevised Fine-Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
+| **SynLlama**   | arXiv 2025.03 | Surpevised Fine-Tuning | [SynLlama: Generating Synthesizable Molecules and Analogs with LLMs](https://arxiv.org/pdf/2503.12602) | [Code](https://github.com/THGLab/SynLlama) |
+| **TOMG-Bench** | arXiv 2024.12 | Surpevised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
+| **UniMoT**     | arXiv 2024.08 | Surpevised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/pdf/2408.00863) | [Code](https://uni-mot.github.io/) |
+| **Mol-MoE**    | arXiv 2025.02 | Preference Tuning | [Mol-MoE: Training Preference-Guided Routers for Molecule Generation](https://arxiv.org/pdf/2502.05633) | [Code](https://github.com/ddidacus/mol-moe) |
+| **SmileyLlama**| arXiv 2024.09 | Preference Tuning | [SmileyLlama: Modifying LLMs for Directed Chemical Space Exploration](https://arxiv.org/pdf/2409.02231) |[N/A] |
 | **ALMol** | ACL 2024 | Preference Tuning | [ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](https://arxiv.org/abs/2405.08619) |[N/A]|
-| **Less for More** | arXiv 2024.05 | Preference Tuning | [Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation](https://arxiv.org/abs/2405.13984) | [N/A] |
-| **MOLLEO** | arXiv 2025.02 | Preference Tuning | [MOLLEO: Multi-Objective Large Language Model for Molecular Design](https://arxiv.org/abs/2502.12845) | [Code](https://molleo.github.io/) |
-| **CIDD** | arXiv 2025.03 | Preference Tuning | [Pushing the boundaries of Structure-Based Drug Design through Collaborative Intelligence Drug Design](https://arxiv.org/abs/2503.01376) | [N/A] |
-| **MOLLM** | arXiv 2025.02 | Preference Tuning | [MOLLM: Multi-Objective Large Language Model for Molecular Design](https://arxiv.org/abs/2502.12845) | [N/A] |
+| **Less for More** | arXiv 2024.05 | Preference Tuning | [Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation](https://arxiv.org/pdf/2405.13984) | [N/A] |
+| **MOLLEO** | arXiv 2025.02 | Preference Tuning | [MOLLEO: Multi-Objective Large Language Model for Molecular Design](https://arxiv.org/pdf/2502.12845) | [Code](https://molleo.github.io/) |
+| **CIDD** | arXiv 2025.03 | Preference Tuning | [Pushing the boundaries of Structure-Based Drug Design through Collaborative Intelligence Drug Design](https://arxiv.org/pdf/2503.01376) | [N/A] |
+| **MOLLM** | arXiv 2025.02 | Preference Tuning | [MOLLM: Multi-Objective Large Language Model for Molecular Design](https://arxiv.org/pdf/2502.12845) | [N/A] |
 
 
 
