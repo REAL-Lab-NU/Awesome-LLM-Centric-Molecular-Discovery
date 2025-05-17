@@ -18,8 +18,8 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **ICMA** | arXiv 2024.03 | Surpevised Fine-Tuning  | [Large Language Models are In-Context Molecule Learners](https://arxiv.org/pdf/2403.04197) | [N/A] |
 | **Mol-instructions** | ICLR 2024 | Surpevised Fine-Tuning | [MOL-INSTRUCTIONS: A LARGE-SCALE BIOMOLECULAR INSTRUCTION DATASET FOR LLMS](https://arxiv.org/pdf/2306.08018) | [Code](https://github.com/zjunlp/Mol-Instructions) |
 | **LlaSMol** | COLM 2024 | Surpevised Fine-Tuning | [LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset](https://arxiv.org/pdf/2403.04197) | [Code](https://osu-nlp-group.github.io/LLM4Chem/) |
-| **ChemLLM** | arXiv 2024.04 | Surpevised Fine-Tuning | [ChemLLM: A Chemical Large Language Model](https://arxiv.org/pdf/2402.06852) | [N/A] |
-| **MolReFlect** | arXiv 2024.11 | Surpevised Fine-Tuning | [MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](https://arxiv.org/pdf/2411.14721) | [Code](https://github.com/vllm-project/vllm) |
+| **ChemLLM** | arXiv 2024.04 | Surpevised Fine-Tuning | [ChemLLM: A Chemical Large Language Model](https://arxiv.org/pdf/2402.06852) | [Code](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat/tree/main) |
+| **MolReFlect** | arXiv 2024.11 | Surpevised Fine-Tuning | [MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](https://arxiv.org/pdf/2411.14721) | [N/A] |
 | **ChatMol** | arXiv 2025.02 | Surpevised Fine-Tuning | [ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model](https://arxiv.org/pdf/2502.19794) | [Code](https://github.com/ChatMol/ChatMol) |
 | **PEIT-LLM**   | arXiv 2024.12 | Surpevised Fine-Tuning | [Property Enhanced Instruction Tuning for Multi-task Molecule Generation with LLMs](https://arxiv.org/pdf/2412.18084) | [Code](https://github.com/chenlong164/PEIT) |
 | **NatureLM**   | arXiv 2025.02 | Surpevised Fine-Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
