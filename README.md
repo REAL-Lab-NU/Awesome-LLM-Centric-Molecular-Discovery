@@ -28,8 +28,8 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **UniMoT**     | arXiv 2024.08 | Surpevised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/abs/2408.00863) | [Code](https://uni-mot.github.io/) |
 | **Mol-MoE**    | arXiv 2025.02 | Preference Tuning | [Mol-MoE: Training Preference-Guided Routers for Molecule Generation](https://arxiv.org/abs/2502.05633) | [Code](https://github.com/ddidacus/mol-moe) |
 | **SmileyLlama**| arXiv 2024.09 | Preference Tuning | [SmileyLlama: Modifying LLMs for Directed Chemical Space Exploration](https://arxiv.org/abs/2409.02231) |[N/A] |
-| **ALMol** | arXiv 2024.05 | Preference Tuning | [ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](https://arxiv.org/abs/2405.08619) |[N/A]|
-| **Less for More** | arXiv 2024.05 | Preference Tuning | [Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation](https://arxiv.org/abs/2405.13984) | [OpenReview](https://openreview.net/forum?id=lessformore2024) |
+| **ALMol** | ACL 2024 | Preference Tuning | [ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](https://arxiv.org/abs/2405.08619) |[N/A]|
+| **Less for More** | arXiv 2024.05 | Preference Tuning | [Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation](https://arxiv.org/abs/2405.13984) | [N/A] |
 | **MOLLEO** | arXiv 2025.02 | Preference Tuning | [MOLLEO: Multi-Objective Large Language Model for Molecular Design](https://arxiv.org/abs/2502.12845) | [Code](https://molleo.github.io/) |
 | **CIDD** | arXiv 2025.03 | Preference Tuning | [Pushing the boundaries of Structure-Based Drug Design through Collaborative Intelligence Drug Design](https://arxiv.org/abs/2503.01376) | [N/A] |
 | **MOLLM** | arXiv 2025.02 | Preference Tuning | [MOLLM: Multi-Objective Large Language Model for Molecular Design](https://arxiv.org/abs/2502.12845) | [N/A] |
