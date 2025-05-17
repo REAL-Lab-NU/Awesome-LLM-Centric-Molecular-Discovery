@@ -13,7 +13,7 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------|
 | **LLM4GraphGen** | arXiv 2024.04 | In-Context Learning  | [Exploring the Potential of Large Language Models in Graph Generation](https://arxiv.org/abs/2403.14358) | [Code](https://github.com/SitaoLuan/LLM4Graph) |
-| **MolReGPT** | TKDE | In-Context Learning  | [MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective](https://arxiv.org/pdf/2306.06615) | [Code]([https://github.com/phenixace/MolReGPT?tab=readme-ov-file](https://github.com/phenixace/MolReGPT)) |
+| **MolReGPT** | TKDE | In-Context Learning  | [MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective](https://arxiv.org/pdf/2306.06615) | [Code](https://github.com/phenixace/MolReGPT) |
 | **FrontierX** | arXiv 2024.08 | In-Context Learning | [Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design](https://arxiv.org/pdf/2408.11866) | [N/A]) |
 | **ICMA** | arXiv 2024.03 | Surpevised Fine-Tuning  | [Large Language Models are In-Context Molecule Learners](https://arxiv.org/pdf/2403.04197) | [N/A] |
 | **Mol-instructions** | ICLR 2024 | Surpevised Fine-Tuning | [MOL-INSTRUCTIONS: A LARGE-SCALE BIOMOLECULAR INSTRUCTION DATASET FOR LLMS](https://arxiv.org/pdf/2306.08018) | [Code](https://github.com/zjunlp/Mol-Instructions) |
