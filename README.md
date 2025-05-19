@@ -50,12 +50,12 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **ChatDrug** | ICLR 2024 | In-Context Learning  | [Conversational Drug Editing Using Retrieval and Domain Feedback](https://openreview.net/pdf?id=yRrPfKyJQ2) | [Code](https://github.com/chao1224/ChatDrug) |
 | **RE²DF** | arXiv 2024.10 | In-Context Learning | [Utilizing Large Language Models in an Iterative Paradigm with Domain Feedback for Molecule Optimization](https://arxiv.org/pdf/2410.13147) | [Code](https://github.com/lhkhiem28/Re2DF) |
 | **BOPRO** | ICLR 2025 | In-Context Learning | [Searching for Optimal Solutions with LLMs via Bayesian Optimization](https://openreview.net/pdf?id=aVfDrl7xDV) | [Code](https://github.com/amazon-science/BOPRO-ICLR-2025) |
-| **MultiMol** | arXiv 2025 | Supervised Fine-Tuning | [Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization](https://arxiv.org/html/2503.03503) | [Code](https://github.com/jiajunyu1999/LLM4Drug) |
+| **MultiMol** | arXiv 2025.03 | Supervised Fine-Tuning | [Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization](https://arxiv.org/html/2503.03503) | [Code](https://github.com/jiajunyu1999/LLM4Drug) |
 | **DrugAssist** | Briefings in Bioinformatics 2025 | Supervised Fine-Tuning | [DrugAssist: a large language model for molecule optimization](https://academic.oup.com/bib/article/26/1/bbae693/7942355) | [Code](https://github.com/blazerye/DrugAssist) |
-| **GeLLM³O** | arXiv 2025 | Supervised Fine-Tuning | [GeLLM³O: Generalizing Large Language Models for Multi-property Molecule Optimization](https://arxiv.org/pdf/2502.13398) | [Code](https://github.com/ninglab/GeLLMO) |
-| **DrugLLM** | CoRR 2024 | Supervised Fine-Tuning | [DrugLLM: Open Large Language Model for Few-shot Molecule Generation](https://arxiv.org/html/2405.06690v1) | [N/A] |
+| **GeLLM³O** | arXiv 2025.02 | Supervised Fine-Tuning | [GeLLM³O: Generalizing Large Language Models for Multi-property Molecule Optimization](https://arxiv.org/pdf/2502.13398) | [Code](https://github.com/ninglab/GeLLMO) |
+| **DrugLLM** | CoRR 2024.05 | Supervised Fine-Tuning | [DrugLLM: Open Large Language Model for Few-shot Molecule Generation](https://arxiv.org/html/2405.06690v1) | [N/A] |
 | **LLM-Enhanced GA** | NeurIPS2024 Workshop | Supervised Fine-Tuning | [Small Molecule Optimization with Large Language Models](https://openreview.net/forum?id=p5VDaa8aIY) |[Code](https://github.com/yerevann/chemlactica) |
-| **MolX-Enhanced LLM** | arXiv 2024 | Supervised Fine-Tuning | [MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension](https://arxiv.org/html/2406.06777v1) | [N/A] |
-| **TOMG-Bench** | arXiv 2024 | Supervised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
+| **MolX-Enhanced LLM** | arXiv 2024.06 | Supervised Fine-Tuning | [MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension](https://arxiv.org/html/2406.06777v1) | [N/A] |
+| **TOMG-Bench** | arXiv 2024.12 | Supervised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
 | **NatureLM**   | arXiv 2025.02 | Preference Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
 
