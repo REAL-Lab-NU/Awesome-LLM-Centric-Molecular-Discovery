@@ -42,7 +42,7 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 
 |Name|Year|Category|Paper|Code|
 | :------------ |:---------------: |:---------------:| :---------------| :---------------| 
-| **MOLLEO** | ICLR2025 Workshop | Zero-Shot Prompting | [EFFICIENT EVOLUTIONARY SEARCH OVER CHEMICAL SPACE WITH LARGE LANGUAGE MODELS](https://openreview.net/pdf?id=awWiNvQwf3) | [Code](https://github.com/zoom-wang112358/MOLLEO) |
+| **MOLLEO** | ICLR 2025  | Zero-Shot Prompting | [EFFICIENT EVOLUTIONARY SEARCH OVER CHEMICAL SPACE WITH LARGE LANGUAGE MODELS](https://openreview.net/pdf?id=awWiNvQwf3) | [Code](https://github.com/zoom-wang112358/MOLLEO) |
 | **LLM-MDE** | JCIM 2024 | Zero-Shot Prompting | [Large Language Models as Molecular Design Engines](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.4c01396) | [N/A] |
 | **CIDD** | arXiv 2025.03 | In-Context Learning | [Pushing the boundaries of Structure-Based Drug Design through Collaborative Intelligence Drug Design](https://arxiv.org/pdf/2503.01376) | [N/A] |
 | **LLM-EO** | arXiv 2025.03 | In-Context Learning | [Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge of Large Language Models](https://arxiv.org/pdf/2410.18136)| [Code](https://github.com/deepprinciple/llmeo) |
