@@ -1,4 +1,4 @@
-# 🚀 Awesome-LLM-Guided-Molecule-Discovery
+# 🚀 Awesome-LLM-Guided-Molecular-Discovery
 A collection of AWESOME things about Molecule Discovery with LLMs.
 
 🤗 Contributions to update new resources and articles are very welcome!
@@ -17,15 +17,15 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **FrontierX** | arXiv 2024.08 | In-Context Learning | [Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design](https://arxiv.org/pdf/2408.11866) | [N/A]) |
 | **ICMA** | arXiv 2024.03 | Surpevised Fine-Tuning  | [Large Language Models are In-Context Molecule Learners](https://arxiv.org/pdf/2403.04197) | [N/A] |
 | **Mol-instructions** | ICLR 2024 | Surpevised Fine-Tuning | [MOL-INSTRUCTIONS: A LARGE-SCALE BIOMOLECULAR INSTRUCTION DATASET FOR LLMS](https://arxiv.org/pdf/2306.08018) | [Code](https://github.com/zjunlp/Mol-Instructions) |
-| **LlaSMol** | COLM 2024 | Surpevised Fine-Tuning | [LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset](https://arxiv.org/pdf/2403.04197) | [Code](https://osu-nlp-group.github.io/LLM4Chem/) |
-| **ChemLLM** | arXiv 2024.04 | Surpevised Fine-Tuning | [ChemLLM: A Chemical Large Language Model](https://arxiv.org/pdf/2402.06852) | [Code](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat/tree/main) |
-| **MolReFlect** | arXiv 2024.11 | Surpevised Fine-Tuning | [MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](https://arxiv.org/pdf/2411.14721) | [N/A] |
-| **ChatMol** | arXiv 2025.02 | Surpevised Fine-Tuning | [ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model](https://arxiv.org/pdf/2502.19794) | [Code](https://github.com/ChatMol/ChatMol) |
-| **PEIT-LLM**   | arXiv 2024.12 | Surpevised Fine-Tuning | [Property Enhanced Instruction Tuning for Multi-task Molecule Generation with LLMs](https://arxiv.org/pdf/2412.18084) | [Code](https://github.com/chenlong164/PEIT) |
-| **NatureLM**   | arXiv 2025.02 | Surpevised Fine-Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
-| **SynLlama**   | arXiv 2025.03 | Surpevised Fine-Tuning | [SynLlama: Generating Synthesizable Molecules and Analogs with LLMs](https://arxiv.org/pdf/2503.12602) |[N/A]|
-| **TOMG-Bench** | arXiv 2024.12 | Surpevised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
-| **UniMoT** | arXiv 2024.08 | Surpevised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/pdf/2408.00863) | [Code](https://uni-mot.github.io/) |
+| **LlaSMol** | COLM 2024 | Supervised Fine-Tuning | [LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset](https://arxiv.org/pdf/2403.04197) | [Code](https://osu-nlp-group.github.io/LLM4Chem/) |
+| **ChemLLM** | arXiv 2024.04 | Supervised Fine-Tuning | [ChemLLM: A Chemical Large Language Model](https://arxiv.org/pdf/2402.06852) | [Code](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat/tree/main) |
+| **MolReFlect** | arXiv 2024.11 | Supervised Fine-Tuning | [MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](https://arxiv.org/pdf/2411.14721) | [N/A] |
+| **ChatMol** | arXiv 2025.02 | Supervised Fine-Tuning | [ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model](https://arxiv.org/pdf/2502.19794) | [Code](https://github.com/ChatMol/ChatMol) |
+| **PEIT-LLM**   | arXiv 2024.12 | Supervised Fine-Tuning | [Property Enhanced Instruction Tuning for Multi-task Molecule Generation with LLMs](https://arxiv.org/pdf/2412.18084) | [Code](https://github.com/chenlong164/PEIT) |
+| **NatureLM**   | arXiv 2025.02 | Supervised Fine-Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
+| **SynLlama**   | arXiv 2025.03 | Supervised Fine-Tuning | [SynLlama: Generating Synthesizable Molecules and Analogs with LLMs](https://arxiv.org/pdf/2503.12602) |[N/A]|
+| **TOMG-Bench** | arXiv 2024.12 | Supervised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
+| **UniMoT** | arXiv 2024.08 | Supervised Fine-Tuning | [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/pdf/2408.00863) | [Code](https://uni-mot.github.io/) |
 | **Div-SFT** | arXiv 2024.10 | Preference Tuning | [Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity](https://arxiv.org/pdf/2410.03138) | [N/A] |
 | **Mol-MoE** | arXiv 2025.02 | Preference Tuning | [Mol-MoE: Training Preference-Guided Routers for Molecule Generation](https://arxiv.org/pdf/2502.05633) | [Code](https://github.com/ddidacus/mol-moe) |
 | **SmileyLLama**| NeurIPS2024 Workshop | Preference Tuning | [SmileyLlama: Modifying LLMs for Directed Chemical Space Exploration](https://arxiv.org/pdf/2409.02231) |[N/A] |
