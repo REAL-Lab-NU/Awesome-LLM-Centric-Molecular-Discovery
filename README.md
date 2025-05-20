@@ -4,8 +4,10 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## ❖ Contents 
-- [Molecule Generation](#molecular-generation)
-- [Molecule Optimization](#molecular-optimization)
+- [Molecule Generation](#molecule-generation)
+- [Molecule Optimization](#molecule-optimization)
+- [Datasets](#-datasets)
+- [Evaluation Metrics](#-evaluation-metrics)
 
  
 ## Molecule Generation
@@ -58,4 +60,75 @@ A collection of AWESOME things about Molecule Discovery with LLMs.
 | **MolX-Enhanced LLM** | arXiv 2024.06 | Supervised Fine-Tuning | [MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension](https://arxiv.org/html/2406.06777v1) | [N/A] |
 | **TOMG-Bench** | arXiv 2024.12 | Supervised Fine-Tuning | [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](https://arxiv.org/pdf/2412.14642) | [Code](https://github.com/phenixace/TOMG-Bench) |
 | **NatureLM**   | arXiv 2025.02 | Preference Tuning | [NatureLM: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/pdf/2502.07527) | [Code](https://naturelm.github.io/) |
+
+
+
+
+## 📚 Datasets
+
+A curated collection of popular datasets used in LLM-centric molecule generation, optimization, and understanding.
+
+|Dataset|Last Update|Scale|Instruction|Pretraining|Benchmark|SMILES|IUPAC|Dock|Graph|3D|Ontology|Generation|Optimization|Other Tasks|Link|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|:--|
+|**PubChem** | 2025 | 119M | ✘ | ✔️ | ✘ | ✔️ | ✔️ | ✘ | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | Property Prediction & Biology | [Link](https://pubchem.ncbi.nlm.nih.gov/docs/downloads) |
+|**ChEMBL** | 2024 | >20M | ✘ | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | ✔️ | ✘ | ✘ | ✔️ | ✔️ | ML Benchmark | [Link](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/releases/chembl_35/) |
+|**CrossDocked2020** | 2024 | 22.5M | ✘ | ✔️ | ✔️ | ✔️ | ✘ | ✔️ | ✘ | ✔️ | ✘ | ✘ | ✔️ | Docking | [Link](https://github.com/gnina/models/tree/master/data/CrossDocked2020) |
+|**ZINC** | 2023 | >980M | ✘ | ✔️ | ✘ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | ✔️ | ✔️ | Ligand Discovery | [Link](https://wiki.docking.org/index.php?title=ZINC15:Getting_started#Downloading_SMILES) |
+|**Dockstring** | 2022 | >260k | ✘ | ✔️ | ✔️ | ✔️ | ✘ | ✔️ | ✔️ | ✔️ | ✘ | ✔️ | ✔️ | Virtual Screening | [Link](https://figshare.com/articles/dataset/dockstring_dataset/16511577) |
+|**ChEBI-20** | 2021 | 33k | ✘ | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | ✔️ | ✘ | ✔️ | ✔️ | ✘ | Captioning, Translation | [Link](https://github.com/cnedwards/text2mol/tree/master/data) |
+|**OGBG-MolHIV** | 2020 | ~41k | ✘ | ✔️ | ✔️ | ✔️ | ✘ | ✘ | ✔️ | ✘ | ✘ | ✔️ | ✘ | Property Prediction | [Link](https://ogb.stanford.edu/docs/graphprop/#ogbg-mol) |
+|**MOSES** | 2020 | ~1.9M | ✘ | ✘ | ✔️ | ✔️ | ✘ | ✘ | ✘ | ✘ | ✘ | ✔️ | ✘ | De Novo Design | [Link](https://github.com/molecularsets/moses) |
+|**MoleculeNet** | 2019 | 700k | ✘ | ✘ | ✔️ | ✔️ | ✘ | ✘ | ✔️ | ✔️ | ✘ | ✔️ | ✔️ | ML Benchmark | [Link](https://github.com/deepchem/deepchem) |
+|**QM9** | 2014 | 134k | ✘ | ✔️ | ✔️ | ✔️ | ✘ | ✘ | ✔️ | ✔️ | ✘ | ✔️ | ✔️ | QM/ML Modeling | [Link](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904/5) |
+|**TOMG-Bench** | 2025 | 5k | ✔️ | ✘ | ✔️ | ✔️ | ✘ | ✘ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | Editing Tasks | [Link](https://github.com/phenixace/TOMG-Bench) |
+|**MuMOInstruct** | 2025 | 873k | ✔️ | ✔️ | ✘ | ✔️ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | — | [Link](https://huggingface.co/datasets/NingLab/MuMOInstruct) |
+|**ChemData** | 2024 | 7M | ✔️ | ✔️ | ✘ | ✔️ | ✘ | ✔️ | ✘ | ✘ | ✘ | ✔️ | ✔️ | Conversion & Reaction | [Link](https://huggingface.co/datasets/AI4Chem/ChemData700K) |
+|**ChemBench** | 2024 | 4k | ✔️ | ✘ | ✔️ | ✔️ | ✘ | ✘ | ✘ | ✘ | ✘ | ✔️ | ✔️ | Virtual Screening | [Link](https://huggingface.co/datasets/jablonkagroup/ChemBench) |
+|**Mol-Instructions** | 2024 | 2M | ✔️ | ✔️ | ✘ | ✔️ | ✘ | ✘ | ✘ | ✘ | ✘ | ✔️ | ✔️ | Retrosynthesis | [Link](https://huggingface.co/collections/zjunlp/mol-instructions-662e0b9435ab6df9593e8ea0) |
+|**MolOpt-Instructions** | 2024 | 1M | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✔️ | — | [Link](https://huggingface.co/datasets/blazerye/MolOpt-Instructions) |
+|**L+M-24** | 2024 | 148k | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | ✘ | ✔️ | ✘ | ✘ | ✔️ | ✘ | Captioning | [Link](https://github.com/language-plus-molecules/LPM-24-Dataset) |
+|**SMolInstruct** | 2024 | 3.3M | ✔️ | ✔️ | ✔️ | ✔️ | ✘ | ✘ | ✘ | ✘ | ✘ | ✔️ | ✘ | Captioning & Prediction | [Link](https://huggingface.co/datasets/osunlp/SMolInstruct/tree/main) |
+
+
+## 📏 Evaluation Metrics
+
+### 🧬 Structure-Based Metrics
+
+These metrics assess the **chemical plausibility**, **similarity to references**, and **diversity** of generated or modified molecules.
+
+#### 🔹 Validity & Similarity
+
+- **Validity Rate**: Fraction of generated molecules that are chemically valid (e.g., parsable by RDKit).
+- **EM (Exact Match)**: Checks if a generated molecular sequence is identical to a reference.
+- **BLEU (Bilingual Evaluation Understudy)**: Measures n-gram overlap between generated and reference molecular sequences.
+- **Levenshtein Distance**: Minimum number of single-character edits to convert one molecule string into another.
+- **FTS (Fingerprint Tanimoto Similarity)**: Quantifies structural similarity based on molecular fingerprints (e.g., MACCS, RDKit, Morgan).
+- **FCD (Fréchet ChemNet Distance)**: Measures dissimilarity between feature distributions of generated and reference molecules.
+
+#### 🔹 Diversity & Uniqueness
+
+- **Uniqueness**: Proportion of valid generated molecules that are distinct (e.g., Unique@1k, Unique@10k).
+- **Novelty Rate**: Fraction of valid and unique molecules not present in the training set.
+- **IntDiv (Internal Diversity)** / **NCircles**: Structural diversity within the generated molecular set.
+
+
+### 🧪 Property-Based Metrics
+
+These metrics evaluate whether a molecule satisfies specific **physicochemical** or **biological** property constraints.
+
+#### 🔹 Single-Property Evaluation
+
+- **LogP (Octanol-Water Partition Coefficient)**: Indicates molecular hydrophobicity.
+- **QED (Quantitative Estimate of Drug-likeness)**: Heuristic score (0-1) for overall drug-likeness based on multiple properties.
+- **TPSA (Topological Polar Surface Area)**: Sum of polar surface areas, relevant to hydrogen bonding.
+- **SA Score (Synthetic Accessibility Score)**: Estimates synthetic feasibility (1 = easy, 10 = hard).
+
+#### 🔹 Multi-Property Evaluation
+
+- **Composite Score**: Weighted aggregation of multiple property metrics into a scalar.
+- **Pareto Optimality**: A molecule is Pareto optimal if no property can improve without another worsening.
+- **Success Rate under Constraints**: Proportion of generated molecules meeting all specified target thresholds.
+
+
+
 
