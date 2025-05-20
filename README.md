@@ -1,4 +1,4 @@
-# 🚀 Awesome-LLM-Guided-Molecular-Discovery
+# 🚀 Awesome-LLM-Centric-Molecular-Discovery
 A collection of AWESOME things about Molecule Discovery with LLMs.
 
 🤗 Contributions to update new resources and articles are very welcome!
